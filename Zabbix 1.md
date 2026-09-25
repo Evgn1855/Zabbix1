@@ -24,4 +24,4 @@
 ![ссылка](images/image11.png)
 
 
-[img/image1]: 
+![ссылка](images/zabbix.jpg)
